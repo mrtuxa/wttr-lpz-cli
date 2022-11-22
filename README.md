@@ -1,6 +1,6 @@
 # wttr-lpz-cli
 
-<p>This projects use's <a href="https://wttr.in>this Website</a> to get the current weather</p>
+<p>This projects use's <a href="https://wttr.in">this Website</a> to get the current weather</p>
 
 ## How to install
 
