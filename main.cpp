@@ -3,7 +3,7 @@
 
 int main() {
     int output;
-    printf("Checking if processor is avaible...");
+    printf("Checking if processor is available...");
     if (system(NULL)) puts ("Ok");
         else exit (EXIT_FAILURE);
     output=system("curl https://wttr.in/Leipzig");
